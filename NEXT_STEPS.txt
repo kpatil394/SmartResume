@@ -1,0 +1,6 @@
+SmartResume next milestones:
+1. Add Firebase Authentication only after the current local-first app builds and runs.
+2. Add a secure backend for AI resume suggestions and job matching. Never put provider API keys in the Android APK.
+3. Add OCR for scanned PDFs and multi-page PDF templates.
+4. Add optional cloud sync with conflict handling and account deletion.
+5. Test on an emulator and a physical Android phone.
