@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Smartresume" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#FF63D4</item>
+        <item name="android:statusBarColor">#09080D</item>
+        <item name="android:navigationBarColor">#09080D</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#09080D</item>
+    </style>
+
+    <style name="Theme.Smartresume" parent="Base.Theme.Smartresume" />
+    <style name="Theme.smartresume" parent="Base.Theme.Smartresume" />
+</resources>

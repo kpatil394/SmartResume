@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "164169285422",
+    "project_id": "smartresume-2c6a1",
+    "storage_bucket": "smartresume-2c6a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164169285422:android:de5798242826d285efc4bf",
+        "android_client_info": {
+          "package_name": "com.example.smartresume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164169285422-k0u19tefkjn6ejq4cimpp7auc1rqng3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartresume",
+            "certificate_hash": "6d1cd42f5ff9c28afa6a0a58fb0e1973acd4df3c"
+          }
+        },
+        {
+          "client_id": "164169285422-ip07r92q1f156ol7mvrt239ju8lkqi2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzQ9P9ach_q9D8qSZncRc7OuT1duUublk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164169285422-ip07r92q1f156ol7mvrt239ju8lkqi2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
